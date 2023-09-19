@@ -2,12 +2,6 @@
 Repositório da turma de GCMS do IFPE-Recife, 2023.2!
 
 ## Colaboradores
-* Ramide Dantas (@ramidedantas, Professor)
+Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * André Pereira da Silva (@silvaandrep, dono)
-* NOME SOBRENOME (@login)
-* Luciano Filho (@LucianoSegundo)
-* Rafael Marques (@rfdsm)
-* Maiara Santos (@aguedamaiara)
-* Rebeca Jamilly (@ImBeca)
-* Alane Alves (@alanealvess)
-* André Pereira da Silva (@silvaandrep)
+* 
